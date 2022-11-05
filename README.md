@@ -1,3 +1,7 @@
+Live: https://weather-location-api-react.vercel.app/
+
+
+
 <img width="1440" alt="Ekran Resmi 2022-10-27 14 42 05" src="https://user-images.githubusercontent.com/104788318/198275309-b0778a2c-298a-44aa-a5b0-5ff25627a5c7.png">
 
 
